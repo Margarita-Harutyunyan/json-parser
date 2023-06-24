@@ -11,7 +11,7 @@ json-parser provides functionality for parsing and manipulating JSON files. It o
 
 Usage
 
-To use the JSONparser library, follow these steps:
+To use the parser along with its interactive menu, follow these steps:
 
     1. Run the main.py script that contains a testing and an example usage of the JSON parser.
 
