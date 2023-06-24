@@ -1,8 +1,12 @@
 # json-parser
 json-parser provides functionality for parsing and manipulating JSON files. It offers the following features:
+
     Load JSON data from a file.
+    
     Perform operations to add, update, and delete fields in the JSON structure.
+    
     Dump the modified JSON back to the file.
+    
     Display the JSON object in a formatted manner.
 
 Usage
